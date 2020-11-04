@@ -3,3 +3,4 @@ EQUIPO DESARROLLO PRUEBA
   
 ## Integrantes
   - Julio Diaz 
+  - Integrante D
